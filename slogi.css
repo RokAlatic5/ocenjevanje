@@ -1,0 +1,36 @@
+main{
+	min-height: 300px;
+	width: 800px;
+	background-color: silver;
+}
+footer{
+	height: 100px; 
+	width: 1000px;
+	background-color: red;
+	display: flex;
+}
+aside{
+	height: 300px;
+	width: 200px;
+	background-color: blue;
+}
+.kvadrat{
+	display: flex;
+}
+h1 {
+	color: white;
+	padding-left: 400px;
+	padding-top: 10px;
+}
+.Tabela {
+	border-collapse: collapse;
+	border: 3px;
+	margin: 0 auto;
+}
+.Tabela td,.Tabela th {
+    border: 1px solid black;
+    background-color: white
+    padding-right: 100px;
+    padding-left: 10px;
+}
+	
